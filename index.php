@@ -14,6 +14,8 @@
     halaman tes
     <hr>
     <button>clik</button>
+    <hr>
+    <button>klik</button>
 </body>
 
 </html>
