@@ -10,6 +10,8 @@
 
 <body>
     <h2>tes git</h2>
+    <hr>
+    halaman tes
 </body>
 
 </html>
